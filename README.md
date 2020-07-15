@@ -1,7 +1,7 @@
 # YOLOv3
 Implementation of YOLOv3 for object detection.
 
-
+The following files are required to run the code:
 
 The "yolov3.weights" (>25MB) file can be downloaded here: 
 https://pjreddie.com/media/files/yolov3.weights
